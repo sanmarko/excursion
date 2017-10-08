@@ -1,4 +1,4 @@
-/*Header 1 font, color and background image style definition*/
+/*Header 1 font and color*/
 h1 {
   font-family: Verdana;
   font-size: 50px;
@@ -7,16 +7,19 @@ h1 {
   text-align: center;
 }
 
+/*Page background and alignment*/
 html {
   background-color: black;
   text-align: center;
 }
 
+/* Text style*/
 p {
   color: aquamarine;
   font-size: 16px;
 }
 
+/*Subheader h2 style*/
 h2 {
   font-family: Verdana;
   color: white;
@@ -24,12 +27,14 @@ h2 {
   font-weight: 300;
 }
 
+/*Style for excursion places and copy right text*/
 .places {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
 }
 
+/*Style for copy right text*/
 .excursion {
   text-align: right;
   color: grey;
